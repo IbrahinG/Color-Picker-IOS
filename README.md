@@ -27,7 +27,7 @@ You are free to use it as you wish without my permission. </p>
 ## 🛠️ Installation
 1. Step 1: Clone this repository.
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+    git clone https://github.com/IbrahinG/Color-Picker-IOS/tree/main.git
     ```
 2. Step 2: Install dependencies: NEED MACBOOK
     ```bash
